@@ -8,8 +8,8 @@ Whether you are a seasoned tinkerer or touching an Arduino for the exact first t
 
 We've split the code into two parts so you can test your hardware before tackling the complex sensor logic.
 
-* **Testing your motors?** 👉 [Basic movement code is here](./basic_movements/basic_movements.ino)
-* **Ready for the track?** 👉 [Line follower code is here](./line_follower/line_follower.ino)
+* **Testing your motors?** 👉 [Basic movement code is here](./basic_robot_movement.ino)
+* **Ready for the track?** 👉 [Line follower code is here](./line_robot_movement.ino)
 
 *(Note: Click the links above to navigate directly to the `.ino` files in this repository!)*
 
